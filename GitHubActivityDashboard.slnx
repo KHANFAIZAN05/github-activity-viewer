@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GitHubActivityDashboard.Api/GitHubActivityDashboard.Api.csproj" />
+  <Project Path="GitHubActivityDashboard.Tests/GitHubActivityDashboard.Tests.csproj" />
+</Solution>
